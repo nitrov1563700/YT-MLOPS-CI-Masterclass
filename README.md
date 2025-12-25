@@ -1,2 +1,2 @@
-# YT-MLOPS-CI-Masterclass
+# MLOps-CI-GitHub-Actions
 This project is to demonstrate an end to end implementation of Continuous Integration.
